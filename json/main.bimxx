@@ -1,0 +1,22 @@
+{
+  "name": "IPTV",
+  "developer_id": "64c64ed3-f5a3-4346-b37e-df9586d7d88c",
+  "update_url": "https://1drv.ms/u/s!Avd-vJ_O5gkAgixNWztQuxfc02cv",
+  "hyper_model_names": [
+    "BIMx Demo Hyper-model"
+  ],
+  "elem_context_menu": [
+    {
+      "title": "IPTV",
+      "url": "https://www.earthcam.com/usa/colorado/breckenridge/?cam=beaverrun",
+      "position": "left",
+      "style": "popover"
+    }
+  ],
+  "project_info": [
+    {
+      "title": "Open GS website",
+      "url": "http://www.graphisoft.com"
+    }
+  ]
+}
