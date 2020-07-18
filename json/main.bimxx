@@ -1,14 +1,11 @@
 {
-  "name": "IPTV",
+  "name": "CCTV-0.1.0.2-preA",
   "developer_id": "64c64ed3-f5a3-4346-b37e-df9586d7d88c",
-  "update_url": "https://1drv.ms/u/s!Avd-vJ_O5gkAgixNWztQuxfc02cv",
-  "hyper_model_names": [
-    "BIMx Demo Hyper-model"
-  ],
+  "update_url": "https://www.dropbox.com/s/d9d817kpi0mtg3y/main.bimxx?dl=0&raw=1",
   "elem_context_menu": [
     {
-      "title": "IPTV",
-      "url": "https://www.earthcam.com/usa/colorado/breckenridge/?cam=beaverrun",
+      "title": "CCTV",
+      "url": "rtsp://rtsp1:rt1001108@195.64.149.168:554/cam/realmonitor?channel=2&subtype=2",
       "position": "left",
       "style": "popover"
     }
